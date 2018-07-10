@@ -1,0 +1,6 @@
+motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
+popped_motorcycles = motorcycles.pop(-1)
+print (motorcycles)
+print (popped_motorcycles)
+print (len(motorcycles))
+len(motorcycles)
